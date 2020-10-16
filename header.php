@@ -17,7 +17,7 @@ else{
   $loggedin = false;
 }
 
-echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+echo '<nav class="navbar navbar-expand-lg navbar-light bg-light">
 <a class="navbar-brand" href="#">
 <!-- <img style ="border: white solid; border-radius: 50%;" src="img/Logo.jpeg" width="40" height="40" alt="Logo" loading="lazy"> -->
 <b><h5 style="font-family: inherit; color: aquamarine; text-shadow: 2px  1px 3px darkgray; font-size: x-large;">CodingBazar</h5></b>
@@ -32,7 +32,7 @@ echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="nav-link" href="/Forum/index.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
+        <a class="nav-link" href="#">About US!!!</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
