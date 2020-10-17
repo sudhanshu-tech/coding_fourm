@@ -102,7 +102,7 @@
                   <div class="card-body">
                       <h5 class="card-title"><a href="/forum/catetheards.php?cardid='. $id .'">'. $title .'</a></h5>
                       <p class="card-text">'. substr($decs, 0 , 100) .'...</p>
-                      <a href="/forum/catetheards.php?cardid= '. $id .'" class="btn btn-primary">View Thread</a>
+                      <a href="/forum/catetheards.php?cardid= '. $id .'" class="btn btn-success">View Thread</a>
                   </div>
               </div>
           </div>';
