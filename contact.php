@@ -30,6 +30,11 @@
                       <label for="inputEmail4">Email</label>
                       <input type="email" class="form-control" id="inputPassword4">
                     </div>
+                
+                  <div class="form-group col-md-6">
+                      <label for="inputEmail4">Phone</label>
+                      <input type="phone" class="form-control" id="inputPassword4">
+                    </div>
               </div>
             <div class="form-group">
             <label for="inputAddress">Your Message</label>
